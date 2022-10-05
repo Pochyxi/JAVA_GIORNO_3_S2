@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apache">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/apache" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/apache" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/apache" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/apache" recursive="false" type="SOURCES" />
+  </library>
+</component>
